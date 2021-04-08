@@ -171,9 +171,7 @@ correct: "A",
 
 {
 
-question: "15.The type of disk drive that uses laser light or electromagnet wave for 
-
-reading or writing data to or from optional discs is………… ",
+question: "15.The type of disk drive that uses laser light or electromagnet wave for reading or writing data to or from optional discs is………… ",
 choiceA: "magnetic tape ",
 choiceB: "floppy diskette",
 choiceC: "hard disk",
@@ -207,9 +205,7 @@ correct: "B",
 
 {
 
-question: "18.The type of integrated circuits that contain 10 to 200 logic gates 
-
-is…………..",
+question: "18.The type of integrated circuits that contain 10 to 200 logic gates is…………..",
 choiceA: "SSI",
 choiceB: "MSI",
 choiceC: "VESI",
@@ -220,9 +216,7 @@ correct: "D",
 
 {
 
-question: "19.The IC’s for circuits that need high component density are made 
-
-from………….",
+question: "19.The IC’s for circuits that need high component density are made from………….",
 choiceA: "Metal Oxide Semi-conductor",
 choiceB: "Complementary Metal Oxide Semi-conductor",
 choiceC: "All of the above",
@@ -233,9 +227,7 @@ correct: "C",
 
 {
 
-question: "20.The IC’s for systems requiring low power consumption are made 
-
-from…………",
+question: "20.The IC’s for systems requiring low power consumption are made from…………",
 choiceA: "Complementary Metal Oxide Semi-conductor",
 choiceB: "Metal Oxide Semi-conductor",
 choiceC: "All of the above",
@@ -257,9 +249,7 @@ correct: "D",
 
 {
 
-question: "22.The set of manufacturing processes used to create semiconductor devices 
-
-and circuit is ……….",
+question: "22.The set of manufacturing processes used to create semiconductor devices and circuit is ……….",
 choiceA: "Doping",
 choiceB: "Ion implantation",
 choiceC: "Electroplating",
@@ -270,9 +260,7 @@ correct: "C",
 
 {
 
-question: "23.The hard copy that is then transferred on to the chip is referred to as 
-
-",
+question: "23.The hard copy that is then transferred on to the chip is referred to as",
 choiceA: "Sputtering",
 choiceB: "Reticle",
 choiceC: "Electroplating",
@@ -283,9 +271,7 @@ correct: "D",
 
 {
 
-question: "24.The series of steps to selectively mask or expose portions of the wafer 
-
-surface for deposition, doping, or etching is referred to as…………..",
+question: "24.The series of steps to selectively mask or expose portions of the wafer surface for deposition, doping, or etching is referred to as…………..",
 choiceA: "Layering",
 choiceB: "Heat treatment",
 choiceC: "Patterning",
